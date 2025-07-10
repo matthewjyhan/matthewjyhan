@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @matthewjaeyounghan
-- 👀 I’m interested in app development, web design, and learning more about software.
-- 🌱 I’m currently learning C, Java, and Python.
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me:
-        LinkedIn: www.linkedin.com/in/matthewjaeyounghan
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I picked up an interest in computer science in my senior year of high school!
+👋 Hi, I’m @matthewjyhan
+- Rising Sophomore @ Rutgers
+- Contact me: linkedin.com/in/matthewjyhan
 
 <!---
 matthewjaeyounghan/matthewjaeyounghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
