@@ -1,6 +1,12 @@
-👋 Hi, I’m @matthewjyhan
-- Rising Sophomore @ Rutgers
-- Contact me: linkedin.com/in/matthewjyhan
+👋 Hi, I’m Matthew!
+- Sophomore @ Rutgers Honors College
+- Double major in Computer Science + Philosophy
+- NYC/NJ area
+- Currently working on:
+  - https://github.com/RU-Here
+- Contact me:
+  - https://linkedin.com/in/matthewjyhan
+  - https://instagram.com/@matthewjyhan
 
 <!---
 matthewjaeyounghan/matthewjaeyounghan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
