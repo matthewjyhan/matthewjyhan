@@ -1,6 +1,4 @@
-👋 Hi, I’m Matthew!
-- Sophomore @ Rutgers Honors College
-- Double major in Computer Science + Philosophy
+- Computer Science @ Rutgers Honors College
 - NYC/NJ area
 - Currently working on:
   - https://github.com/RU-Here
