@@ -6,6 +6,7 @@ Hello World!
   - [Meyeroom](https://github.com/matthewjyhan/meyeroom) March 2026
   - [Teyeme](https://github.com/matthewjyhan/teyeme) January 2025
   - [Veyebe](https://matthewjyhan.github.io/veyebe/) February 2026
+  - [RPS - 1](https://matthewjyhan.github.io/rockpaperscissors-minus-one/) January 2025
 - Interests/Hobbies:
   - AI/ML
   - Philosophy
