@@ -6,6 +6,7 @@ Hello World!
 - Currently working on:
   - [RU-Here](https://github.com/RU-Here) since May 2025
   - [Teyeme](https://github.com/matthewjyhan/teyeme) since January 2025
+  - [AI Generated Text Detector](https://github.com/Break-Through-Tech/Chewy-1B-spot-the-bot-detecting-ai-generated-text) since September 2026
 - Previous projects:
   - [RPS - 1](https://matthewjyhan.github.io/rockpaperscissors-minus-one/) January 2025
   - [Meyeroom](https://github.com/matthewjyhan/meyeroom) March 2026
